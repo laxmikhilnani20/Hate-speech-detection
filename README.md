@@ -45,8 +45,8 @@ pip install pandas numpy nltk scikit-learn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hate-speech-detection.git
-   cd hate-speech-detection
+   git clone https://github.com/laxmikhilnani20/Hate-speech-detection.git
+   cd Hate-speech-detection
    ```
 
 2. Open the Jupyter Notebook:
